@@ -1,3 +1,4 @@
 server:
   port: ${PORT:9999}
 message: Consumer configuration. Server is alive for DEV profile
+image-url: https://www.creativefabrica.com/wp-content/uploads/2021/06/14/Software-Developer-Flat-Icon-Graphics-13375448-1-1-580x387.jpg
